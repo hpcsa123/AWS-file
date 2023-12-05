@@ -1,2 +1,2 @@
 FROM httpd
-COPY idex.html /var/www/html/
+COPY index.html /var/www/html/
